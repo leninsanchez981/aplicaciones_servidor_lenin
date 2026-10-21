@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.agents/
+.claude/
+.windsurf/
+
+proyecto_3/semana3/src/generated/prisma/
